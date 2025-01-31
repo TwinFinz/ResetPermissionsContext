@@ -16,7 +16,7 @@ This registry modification adds a **"Reset Permissions"** option to the right-cl
 4. Click **OK** to confirm.  
 
 ## Usage  
-1. **Right-click** any file, folder, or drive.  
+1. **Right-click** any file, folder, or drive. (Windows 11 may require Shift+Right Click)
 2. Select **"Reset Permissions"** from the context menu.  
 3. A command window will appear and show the progress of the permission reset.  
 
